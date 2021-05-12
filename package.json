@@ -53,6 +53,7 @@
   "devDependencies": {
     "@babel/core": "^7.14.0",
     "@size-limit/preset-small-lib": "^4.10.2",
+    "@storybook/addon-a11y": "^6.2.9",
     "@storybook/addon-essentials": "^6.2.9",
     "@storybook/addon-info": "^5.3.21",
     "@storybook/addon-links": "^6.2.9",
@@ -64,6 +65,7 @@
     "@types/react": "^17.0.5",
     "@types/react-dom": "^17.0.4",
     "antd": "^4.15.5",
+    "auto": "^10.27.1",
     "babel-loader": "^8.2.2",
     "chromatic": "^5.8.0",
     "husky": "^6.0.0",
@@ -74,5 +76,8 @@
     "tsdx": "^0.14.1",
     "tslib": "^2.2.0",
     "typescript": "^4.2.4"
-  }
+  },
+  "description": "a pro-component for wonder",
+  "repository": "https://github.com/manzxiao/BO-Pro.git",
+  "private": false
 }
