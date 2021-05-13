@@ -20,7 +20,8 @@
     "analyze": "size-limit --why",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "chromatic": "npx chromatic --project-token 8c06e0fedff6"
+    "chromatic": "npx chromatic --project-token 8c06e0fedff6",
+    "release": "auto shipit --base-branch=main"
   },
   "peerDependencies": {
     "antd": ">=4",
