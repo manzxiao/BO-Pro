@@ -8,7 +8,7 @@ class Counter extends React.Component<{}, { count: number }> {
     return (
       <div>
         <button onClick={this.decrement}>-</button>
-        <p>{this.state.count}</p>
+        <p>{this.state.count}1</p>
         <button onClick={this.increment}>+</button>
       </div>
     );
