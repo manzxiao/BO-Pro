@@ -1,3 +1,15 @@
+# v0.1.2 (Wed Aug 11 2021)
+
+#### ⚠️ Pushed to `main`
+
+- test (manzxiao@xm.remarkablefoods.com)
+
+#### Authors: 1
+
+- manzxiao (manzxiao@xm.remarkablefoods.com)
+
+---
+
 # v0.1.1 (Thu May 13 2021)
 
 #### ⚠️ Pushed to `main`
