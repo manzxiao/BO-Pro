@@ -1,3 +1,16 @@
+# v0.1.3 (Wed Aug 11 2021)
+
+#### 🐛 Bug Fix
+
+- improve button [#1](https://github.com/manzxiao/BO-Pro/pull/1) (manzxiao@xm.remarkablefoods.com [@manzxiao](https://github.com/manzxiao))
+
+#### Authors: 2
+
+- Manz Xiao ([@manzxiao](https://github.com/manzxiao))
+- manzxiao (manzxiao@xm.remarkablefoods.com)
+
+---
+
 # v0.1.2 (Wed Aug 11 2021)
 
 #### ⚠️ Pushed to `main`
