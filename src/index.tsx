@@ -15,7 +15,7 @@ export const Thing: FC<Props> = ({ children }) => {
   return (
     <div>
       {children || `the snozzberries taste like snozzberries`}
-      <Button>this is a button</Button>
+      <Button>this is a button improve</Button>
     </div>
   );
 };
